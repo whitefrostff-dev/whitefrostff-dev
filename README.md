@@ -10,7 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/EMAIL-CONTACT%40FROSTCYBER-informational?style=flat-square&logo=gmail" />
+  <img src="https://img.shields.io/badge/EMAIL-whitefrostff%40gmail.com-informational?style=flat-square&logo=gmail" />
+  <img src="https://img.shields.io/badge/WHATSAPP-%2B2347077187114-success?style=flat-square&logo=whatsapp" />
   <img src="https://img.shields.io/badge/GITHUB-WHITEFROSTFF--DEV-black?style=flat-square&logo=github" />
 </p>
 
